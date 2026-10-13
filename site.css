@@ -1,0 +1,8 @@
+/* Shared styles. Change only when the whole team agrees. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.5; color: #1f2933; background: #ffffff; }
+header, main, footer { max-width: 760px; margin: 0 auto; padding: 16px; }
+header { border-bottom: 3px solid var(--brand, #1f6f50); }
+footer { font-size: 14px; color: #52606d; border-top: 1px solid #d9e2ec; margin-top: 32px; }
+a { color: var(--brand, #1f6f50); }
+.demo-note { background: #fff4d6; border: 1px solid #e0b84f; padding: 8px 12px; border-radius: 6px; }

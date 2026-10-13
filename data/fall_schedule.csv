@@ -1,0 +1,25 @@
+date,start_time,field,age_group,home_team,away_team
+2026-09-12,9:00 AM,Field 1,U8,U8 Comets,U8 Rockets
+2026-09-12,9:00 AM,Field 2,U8,U8 Sparks,U8 Bolts
+2026-09-12,9:00 AM,Field 3,U11,U11 Hawks,U11 Foxes
+2026-09-12,10:30 AM,Field 1,U11,U11 Wolves,U11 Bears
+2026-09-12,10:30 AM,Field 2,U14,U14 Storm,U14 Thunder
+2026-09-12,10:30 AM,Field 3,U14,U14 Blaze,U14 Flash
+2026-09-19,9:00 AM,Field 1,U8,U8 Comets,U8 Sparks
+2026-09-19,9:00 AM,Field 1,U14,U14 Thunder,U14 Flash
+2026-09-19,9:00 AM,Field 2,U8,U8 Rockets,U8 Bolts
+2026-09-19,9:00 AM,Field 3,U11,U11 Hawks,U11 Wolves
+2026-09-19,10:30 AM,Field 1,U11,U11 Foxes,U11 Bears
+2026-09-19,10:30 AM,Field 2,U14,U14 Storm,U14 Blaze
+2026-09-26,9:00 AM,Field 1,U8,U8 Comets,U8 Bolts
+2026-09-26,9:00 AM,Field 2,U8,U8 Rockets,U8 Sparks
+2026-09-26,9:00 AM,Field 3,U11,U11 Hawks,U11 Bears
+2026-09-26,10:30 AM,Field 1,U11,U11 Foxes,U11 Wolves
+2026-09-26,10:30 AM,Field 2,U14,U14 Storm,U14 Flash
+2026-09-26,10:30 AM,Field 2,U14,U14 Thunder,U14 Blaze
+2026-10-03,9:00 AM,Field 1,U8,U8 Comets,U8 Sparks
+2026-10-03,9:00 AM,Field 2,U8,U8 Rockets,U8 Bolts
+2026-10-03,9:00 AM,Field 3,U11,U11 Hawks,U11 Wolves
+2026-10-03,9:00 AM,Field 3,U14,U14 Thunder,U14 Flash
+2026-10-03,10:30 AM,Field 1,U11,U11 Foxes,U11 Bears
+2026-10-03,10:30 AM,Field 2,U14,U14 Storm,U14 Blaze

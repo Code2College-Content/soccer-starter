@@ -1,0 +1,15 @@
+{
+  "name": "County Youth Soccer League",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install --user pandas",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "ms-vscode.live-server"
+      ]
+    }
+  }
+}
