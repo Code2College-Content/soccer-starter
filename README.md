@@ -24,7 +24,7 @@ Solo version: the clean roster and the count check only.
 * This repo is **public**. Everything in it is about a fictional business made up for practice.
 * Never put personal information here: no real names, phone numbers, addresses or passwords.
 * Never paste anything private into Copilot. Describe the columns instead of pasting rows.
-* Stop your Codespace when you leave (Codespaces menu, bottom left, Stop Current Codespace).
+* When you leave, save, commit and sync. In a Codespace, also stop it (Codespaces menu, bottom left, Stop Current Codespace). On your own laptop there is nothing to stop.
 
 ## Team rules
 
